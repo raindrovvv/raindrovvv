@@ -19,7 +19,6 @@ Wwise 구조 설계부터 UE5 C++ 기반의 오디오 시스템 구축까지, �
 - **역할별 시스템 분리:** Monster(위협 인지), Seeker(상호작용 피드백), UI(가시성) 등 게임플레이 역할에 따른 오디오 로직 최적화
 - **정교한 RTPC 제어:** 거리, 감쇠 모드, 런타임 오클루전 등을 Wwise RTPC와 실시간 연동
 - **환경 적응형 오디오:** Physical Material 기반의 발소리 시스템 및 Anim Notify를 활용한 정밀한 타이밍 제어
-- **데이터 기반 개선:** 299명의 플레이테스트 결과(평점 4.36/5)를 바탕으로 믹스 밸런스 및 우선순위 최적화
 
 #### 🔗 Links:
 - [**Direct Code Path**](https://github.com/raindrovvv/GuardianAndSeeker/tree/Dev/Source/GAS/Public/Sound)
