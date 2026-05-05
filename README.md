@@ -49,7 +49,6 @@ Implemented a technical audio framework that integrates complex gameplay logic w
 - **Role-Based Systems:** Optimized audio logic for distinct roles: Monster (threat detection), Seeker (interaction feedback), and UI (readability).
 - **Dynamic RTPC Control:** Real-time management of Wwise RTPCs for distance, attenuation, and runtime occlusion.
 - **Context-Aware Audio:** Implemented Physical Material-based footstep systems and precision timing via Anim Notifies.
-- **Data-Driven Iteration:** Refined mix balance and priority systems based on feedback from 299 playtest participants (4.36/5 rating).
 
 #### 🔗 Links:
 - [**Direct Code Path**](https://github.com/raindrovvv/GuardianAndSeeker/tree/Dev/Source/GAS/Public/Sound)
