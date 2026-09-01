@@ -1,8 +1,6 @@
 # Jungmin Cha 👋
 **Game Audio Designer · Technical Builder**
 
-[Portfolio](https://jungmin-cha-portfolio.pages.dev/) · [Blog](https://raindrovvv.tistory.com) · [Music](https://jungmin-cha-portfolio.pages.dev/)
-
 사운드를 만드는 사람에서 시작해, 클라이언트 작업까지 합니다.  
 음악 프로듀싱이 주특기였고, 지금은 그 감각과 창의력을 **게임**으로 옮기고 있습니다.
 
@@ -70,6 +68,8 @@ G-STAR 2025 출품 이후에도 인디 타이틀로 개발을 이어가는 중�
 - [Unreal-Engine-Build-Monitor](https://github.com/raindrovvv/Unreal-Engine-Build-Monitor) — 빌드 상태를 웹으로 확인
 - [UnityMCP](https://github.com/raindrovvv/UnityMCP) — Unity 에디터 ↔ 로컬 에이전트
 - MapleStory Worlds로 2인 팀 게임 제작 중
+
+[Game Portfolio](https://jungmin-cha-portfolio.pages.dev/) · [AI Builder Portfolio](https://jungmin-cha-ai-builder.pages.dev) · [AI Video Portfolio](https://jungmin-cha-ai-video.pages.dev)
 
 ---
 
