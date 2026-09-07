@@ -1,5 +1,6 @@
 # Jungmin Cha 👋
-**Game Builder**
+**Game Builder - Game Programmer** 
+vnrs97@gmail.com
 
 사운드를 만드는 사람에서 시작해, 클라이언트 작업까지 합니다.  
 음악 프로듀싱이 주특기였고, 지금은 그 감각과 창의력을 **게임**으로 옮기고 있습니다.
